@@ -7,6 +7,10 @@
   <img href="https://www.netlify.com/" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank">
 </p>
 
+<p align="center">
+<img href="https://app.netlify.com/sites/dg-solutions/deploys" src="https://api.netlify.com/api/v1/badges/0323f41c-7e0f-4096-9fcf-d5ca3903f2cc/deploy-status" target="_blank">
+</p>
+
 ## Descrição
 
 Implementação de um front-end para uma lista de pessoas com nome, data de nascimento e idade(gerada)
