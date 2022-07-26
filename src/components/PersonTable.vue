@@ -68,22 +68,4 @@ watch(() => props.refresh, async (newValue, oldValue) => {
   await refreshTableData()
 });
 
-interface User {
-  id: string
-  name: string
-  birthDate: Date
-  age: number
-}
-
-const search = ref('')
-
-const handleEdit = (index: number, row: User) => {
-  console.log(index, row)
-}
-const handleDelete = (index: number, row: User) => {
-  console.log(index, row)
-}
-
-console.log(tableMeta.value);
-
 </script>
